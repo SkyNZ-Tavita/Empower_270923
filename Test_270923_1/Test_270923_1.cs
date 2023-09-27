@@ -17,7 +17,8 @@ namespace Test_270923_1
 		/// <param name="engine">Link with SLAutomation process.</param>
 		public void Run(IEngine engine)
 		{
-			engine.GenerateInformation("Hello Melbourne")
+			engine.GenerateInformation("Hello Melbourne 270923");
+			//Change 1
 		}
 	}
 }
